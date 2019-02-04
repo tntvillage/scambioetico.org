@@ -1,0 +1,31 @@
+Title: ACTA: la Commissione Europea in difficoltà
+Date: 2010-03-22 18:38
+Author: paolojustice
+Category: ACTA, Attivismo
+Tags: 3-strikes, ACTA, brevetti, contraffazione, copyright, farmaci
+Slug: acta-la-commissione-europea-in-difficolta
+Status: published
+
+![TNT blog](http://blog.tntvillage.scambioetico.org/wp-content/uploads/2010/01/noalacta.jpg){width="160" height="107"}**Il DG Commercio della Commissione Europea ha tenuto oggi un incontro pubblico su ACTA al quale erano ammessi esponenti della società civile. I tentativi di rassicurare l'opinione pubblica portati avanti dagli esponenti della Commissione non appaiono convincenti: il rifiuto di rispondere alle domande più importanti rafforza, invece di mitigare, le preoccupazioni delle organizzazioni non governative e dei difensori delle libertà.**  
+<clear="all">  
+**<!--more-->**
+
+UPDATE: la registrazione completa del meeting è disponibile [qui](http://www.erikjosefsson.eu/sites/default/files/acta_2010mar22.ogg).
+
+Luc Devigne, il principale negoziatore ACTA per l'Unione Europea, ha tentato oggi a Brussels di convincere il pubblico che ACTA non avrà nessun impatto sui diritti fondamentali dei cittadini, definendo le denunce degli attivisti (basate peraltro su documenti ufficiali trapelati) semplici "dicerie". Quando però è stato pressato da domande precise, ha dato risposte ambigue o non-risposte che rafforzano invece la validità di quei cosiddetti "rumours".
+
+In particolare, se da un lato Devigne afferma che ACTA si dedicherà esclusivamente alla repressione della contraffazione su scala commerciale, dall'altro dice che ACTA non definisce cosa sia "scala commerciale", lasciando libera l'interpretazione alle corti dei paesi sottoscrittori. Tale posizione può introdurre incertezze giuridiche nel mercato interno, ed oltre tutto non esclude la tesi portata avanti dall'industria dei monopoli intellettuali secondo la quale il file sharing in quanto tale è già "violazione del copyright su scala commerciale".
+
+Devigne ha confermato che secondo ACTA la polizia di frontiera dovrebbe procedere al sequestro di farmaci sulla base di semplici sospetti di violazione di brevetto, senza alcun ordine giudiziario. In questo senso ACTA potrebbe dare una protezione mondiale all'industria farmaceutica americana ed europea, i cui interessi sono minacciati dalla concorrenza (legale, per ora) di India e Brasile, che sono in grado di produrre farmaci molto importanti alla stessa qualità ma a prezzo più basso. Non è un caso che India e Brasile e tutti i paesi che hanno bisogno di concorrenza sui farmaci per ottenere costi più bassi al fine di salvare milioni di vite umane (secondo MSF) non siano stati invitati a partecipare ad ACTA. La strategia è di sequestrare certi farmaci durante la fase di transito dai produttori (India e Brasile) ai clienti, all'interno di paesi sottoscrittori di ACTA, quand'anche per le legislazioni del paese produttore, del paese acquirente e per gli accordi WIPO e WTO la transazione sarebbe perfettamente legale.
+
+Seguendo questo schema, si possono ripetere i fatti denunciati dal [saggio](http://www.sourcejuice.com/1298826/2010/01/15/Fred-Abbott-sul-sequestro-farmaci-generici-transito/it/) di Abbott nel caso dei sequestri dei farmaci diretti verso paesi terzi e che fanno scalo in un qualsiasi paese sottoscrittore di ACTA. I farmaci possono essere sequestrati con una semplice dichiarazione di sospetto di violazione di brevetto; quand'anche il produttore dovesse poi dimostrare la legalità di quei farmaci, saranno passati mesi o anni sufficienti a rallentare l'esportazione di quei farmaci (o farli arrivare alla data di scadenza) e favorire quindi l'esportazione da parte delle industrie farmaceutiche americane od europee.
+
+Si veda anche la [risposta](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+CRE+20090312+ANN-01+DOC+XML+V0//IT&language=IT&detail=H-2009-0109&query=QUESTION) del Consiglio del 12 marzo 2009 ad un'interrogazione del Parlamento Europeo su questo tema (sequestro di farmaci sospettati di violazione di brevetto in transito nei Paesi Bassi).
+
+Inoltre, Devigne si è rifiutato di rispondere sia in merito alla responsabilità degli Internet Service Provider per i contenuti veicolati tramite le proprie reti (prevista a quanto ci risulta dal capitolo Internet di ACTA), sia di chiarire quale è secondo ACTA la differenza fra farmaco generico contraffatto e farmaco di qualità ma prodotto in violazione di brevetto. La differenza di quest'ultimo punto è sostanziale anche in considerazione del fatto che ACTA renderebbe de facto inefficace l'opzione di "compulsory licensing", anche prima della scadenza di un brevetto in uno stato estero, garantita dalla WTO specificamente per i farmaci al fine di minimizzare i danni per la popolazione di un certo paese
+
+Infine, la Commissione è stata messa in serie difficoltà da Joe McNamee (EDRi) ed Erik Josefsson (consigliere Internet gruppo europarlamentare dei Verdi) sulla risoluzione del Parlamento Europeo che richiede la limitazione di ACTA al perseguimento della contraffazione, senza estensione a Internet e alle violazioni del copyright prive di scopo di lucro. La Commissione ha cercato di forzare l'interpretazione dei punti 8 e 9 del Parlamento Europeo in maniera piuttosto bizzarra; come ebbe modo di dire la MEP Trautmann, se la Commissione non cambierà atteggiamento il Parlamento decreterà per ACTA la stessa fine riservata all'accordo SWIFT.
+
+L'europarlamentare Christian Engstrom (Verdi, PiratPartiet) ha dichiarato sul suo blog: "Penso che il comportamento della Commissione sia un'evidenza sconcertante di arroganza istituzionale. Una cosa è non conformarsi al Parlamento, ma questi tipi di dichiarazioni che travisano deliberatamente il Parlamento sono completamente ridicoli." *I think the Commission´s behaviour is an astonishing display of institutional arrogance. It is one thing not to comply with the Parliament, but these kind of claims deliberately misunderstanding the Parliament are utterly ridiculous.*
+
+Riportiamo il [link](http://translate.google.com/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Fschonning.wordpress.com%2F2010%2F03%2F22%2Fkommissionen-undviker-parlamentets-ord-om-acta%2F&sl=auto&tl=en) al transcript del significativo scambio (traduzione dallo svedese all'inglese).

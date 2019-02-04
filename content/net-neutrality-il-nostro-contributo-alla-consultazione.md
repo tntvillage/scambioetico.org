@@ -1,0 +1,9 @@
+Title: Net Neutrality: il nostro contributo alla consultazione
+Date: 2010-09-30 18:37
+Author: admin
+Category: Attivismo, Policy
+Tags: accesso aperto, commissione europea, discriminazioni, net neutrality, neutralità della rete
+Slug: net-neutrality-il-nostro-contributo-alla-consultazione
+Status: published
+
+![TNT blog](http://blog.tntvillage.scambioetico.org/wp-content/uploads/2009/10/neutral-bits.gif){width="256" height="152"}**Scadono oggi i termini per rispondere al [questionario sulla Net Neutrality](http://ec.europa.eu/information_society/policy/ecomm/library/public_consult/net_neutrality/index_en.htm) avviato dalla Commissione Europea nel quadro della consultazione pubblica affinché tutti, compresa la società civile, possano fornire un contributo prima che, auspichiamo, sia presentata una proposta di direttiva. Inviati il [nostro](http://blog.tntvillage.scambioetico.org/wp-content/uploads/2010/09/ECINFSONNScambioEtico.pdf) contributo e quello di [La quadrature Du Net](https://www.laquadrature.net/files/LQDN-20100928-ReponseNetNeutralityQuestionnaire.pdf). Sappiamo che anche [Bits Of Freedom](https://www.bof.nl/live/wp-content/uploads/netneutralityreaction300910.pdf), [WeRebuild](http://werebuild.eu/wiki/images/c/cf/Telecomix-werebuild-net_neutrality_consultation.pdf), il [BEUC](http://www.beuc.org/BEUCNoFrame/Docs/1/PIPCCENBLIDKKNGIMIJBNBJJPDWD9DB1TW9DW3571KM/BEUC/docs/DLS/2010-00578-01-E.pdf) e [Public Knowledge](http://www.publicknowledge.org/files/docs/PK_European_NN_Comments.pdf) hanno inviato le proprie analisi alla Commissione. Prendiamo invece, e purtroppo, atto che l'associazione Libertiamo non ha risposto al questionario ma ha inviato un [position paper](http://www.libertiamo.it/Multimedia/Libertiamo_NetNeutrality.pdf) fermamente contrario alla Net Neutrality.**

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+DISPLAY_PAGES_ON_MENU = True
 LOAD_CONTENT_CACHE = False
 
 MARKDOWN = {
@@ -37,7 +38,8 @@ AUTHOR_FEED_RSS = None
 STATIC_PATHS = ['images', 'wp-content']
 
 # Blogroll
-LINKS = (('Lo Scambio Etico<br/><span class="text-style1">spiegato bene</span>', 'https://medium.com/@exedre/tntvillage-spiegato-bene-d7ffb62267db?fbclid=IwAR3oEYAlcoB3KG9WHAeE62lqFiZRZItfPjQ2zIi8Swq3IHbQRb6uhh60S-0'),
+LINKS = (('Chi siamo', "/pages/tntvillage-chi-siamo.html"),
+         ('Lo Scambio Etico<br/><span class="text-style1">spiegato bene</span>', 'https://medium.com/@exedre/tntvillage-spiegato-bene-d7ffb62267db?fbclid=IwAR3oEYAlcoB3KG9WHAeE62lqFiZRZItfPjQ2zIi8Swq3IHbQRb6uhh60S-0'),
          ('TNTVillage', 'http://tntvillage.scambioetico.org/'),
          ('Forum', 'http://forum.tntvillage.scambioetico.org/'),
          ('Releaselist', 'http://www.tntvillage.scambioetico.org/?releaselist'),

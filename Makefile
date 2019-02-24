@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-
+PUBLISHDIR=/home/sites/scambioetico/site/
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -69,7 +69,9 @@ else
 endif
 
 publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(PUBLISHDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+
+sync: 
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish 

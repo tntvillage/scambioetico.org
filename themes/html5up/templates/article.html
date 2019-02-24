@@ -14,6 +14,7 @@
 {% block content %}
 <div id="content">
 <div class="inner">
+
         <article class="box post post-excerpt">
                 <header> 
                 <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> 
@@ -43,6 +44,7 @@
               <a href="{{ SITEURL }}/{{ article.next_article.url}}" class="button next">{{ article.next_article.title }}</a>
               {% endif %}
             </div>
+	  {% include 'tnt.html' %}
  
 </div>
 </div>

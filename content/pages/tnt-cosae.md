@@ -100,7 +100,7 @@ raggiunto per limite, le opere spesso non sono più disponibili per la
 collettività.
 
 TNTVillage ha adottato questa analisi e quindi definito un periodo
-come Limite dello Scambio Etico (attualmente LSE=18) per tutti i
+come Limite dello Scambio Etico (attualmente *LSE=12*) per tutti i
 materiali tranne quanto è stato divulgato ad un pubblico
 indiscriminato (ad esempio ciò che è stato trasmesso in TV) o quanto è
 strumento scolastico o parascolastico. TNTVillage si dichiara comunque
@@ -109,8 +109,8 @@ solide, di questa determinazione.
 
 Con un'invidiabile disciplina sul sito TNTvillage si è sempre
 mantenuto fede al contratto sociale dello Scambio Etico, per quanto
-deciso unilateralmente con il divieto di pubblicare file torrent che
-contengono:
+deciso unilateralmente con *il divieto assoluto* di pubblicare file
+torrent che contengono:
 
 -   musica, a meno di LSE mesi dalla pubblicazione;
 
@@ -122,9 +122,9 @@ contengono:
     scolastica.;
 
 TNTvillage non permette e non ha mai permesso la diffusione di
-materiale pornografico.
+*materiale pornografico*.
 
-Di conseguenza su TNTVillage consentito postare file torrent con:
+Su TNTVillage è consentito postare file torrent con:
 
 -   film, anime e cartoons: dopo LSE mesi dalla prima divulgazione nella
     lingua in cui viene effettuata la condivisione. N.B. Sono consentiti
@@ -143,7 +143,6 @@ Di conseguenza su TNTVillage consentito postare file torrent con:
     pubblicazione, ad esclusione di quanto già regolamentato.
 
     Sono invece consentite le condivisioni delle opere più recenti di
-
 quegli autori che hanno pubblicamente affermato di essere favorevoli
 alla diffusione delle loro opere sulla rete P2P, così come le opere
 che sono state oggetto di pubblicazione aperta e indiscriminata cioè
@@ -233,4 +232,3 @@ limitato per alcune categorie di utenti in alcuni periodi della
 giornata. Queste misure sono prese solo in relazione alla stabilità
 del sistema e non sono MAI correlate con le donazioni. La release-list
 è sempre aperta e disponibile.
-

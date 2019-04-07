@@ -46,9 +46,11 @@ LINKS = (('Chi siamo', "/pages/tntvillage-chi-siamo.html"),
          ('Archivio', 'http://www.tntvillage.scambioetico.org/archivio'),)
 
 # Social widget
-SOCIAL = (('Twitter', '#'),
-          ('Facebook Group', '#'),
-          ('Facebook Page', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/tnt_village'),
+          ('Twitter', 'https://twitter.com/scambioetico'),
+          ('Facebook Group', 'https://www.facebook.com/groups/tntvillage'),
+          ('Facebook Page', 'https://www.facebook.com/tntvillage/'),)
+
 
 # DEFAULT_PAGINATION = False
 
@@ -67,4 +69,5 @@ DATE_FORMATS = {
 
 LOCALE = ('it_IT',
           )
+
 
